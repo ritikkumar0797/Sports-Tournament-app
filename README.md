@@ -34,9 +34,3 @@ Streamlit
 Pandas
 
 CSV Data Storage
-
-![App Output](Screenshot 2025-11-17 152330.png)
-
-![App Output](Screenshot 2025-11-17 152309.png)
-
-![App Output](Screenshot 2025-11-17 152244.png)
