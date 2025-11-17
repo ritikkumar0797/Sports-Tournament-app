@@ -1,0 +1,22 @@
+Game,Team,Players,Substitutes,Played,Won,Lost,Draw,Goals_For,Goals_Against,Points,Timestamp
+Kabaddi,Kabaddi Team 1,"Player1, Player2, Player3, Player4, Player5, Player6, Player7","Sub1, Sub2, Sub3, Sub4, Sub5",14,2,5,4,13,11,10,0
+Kabaddi,Kabaddi Team 2,"Player1, Player2, Player3, Player4, Player5, Player6, Player7","Sub1, Sub2, Sub3, Sub4, Sub5",11,3,3,0,12,10,9,0
+Kabaddi,Kabaddi Team 3,"Player1, Player2, Player3, Player4, Player5, Player6, Player7","Sub1, Sub2, Sub3, Sub4, Sub5",10,3,2,1,13,11,10,0
+Kabaddi,Kabaddi Team 4,"Player1, Player2, Player3, Player4, Player5, Player6, Player7","Sub1, Sub2, Sub3, Sub4, Sub5",10,4,1,2,14,12,14,0
+Kabaddi,Kabaddi Team 5,"Player1, Player2, Player3, Player4, Player5, Player6, Player7","Sub1, Sub2, Sub3, Sub4, Sub5",10,5,0,0,15,13,15,0
+Kho Kho,Kho Kho Team 1,"Player1, Player2, Player3, Player4, Player5, Player6, Player7, Player8, Player9","Sub1, Sub2, Sub3",11,2,4,2,11,9,8,0
+Kho Kho,Kho Kho Team 2,"Player1, Player2, Player3, Player4, Player5, Player6,  Player7, Player8, Player9","Sub1, Sub2, Sub3",10,2,3,0,12,10,6,0
+Kho Kho,Kho Kho Team 3,"Player1, Player2, Player3, Player4, Player5, Player6,  Player7, Player8, Player9","Sub1, Sub2, Sub3",10,3,2,1,13,11,10,0
+Kho Kho,Kho Kho Team 4,"Player1, Player2, Player3, Player4, Player5, Player6,  Player7, Player8, Player9","Sub1, Sub2, Sub3",10,4,1,2,14,12,14,0
+Kho Kho,Kho Kho Team 5,"Player1, Player2, Player3, Player4, Player5, Player6,  Player7, Player8, Player9","Sub1, Sub2, Sub3",10,5,0,0,15,13,15,0
+Basketball,Basketball Team 1,"Player1, Player2, Player3, Player4, Player5","Sub1, Sub2, Sub3, Sub4, Sub5, Sub6, Sub7",10,1,4,2,11,9,5,0
+Basketball,Basketball Team 2,"Player1, Player2, Player3, Player4, Player5","Sub1, Sub2, Sub3, Sub4, Sub5, Sub6, Sub7",10,2,3,0,12,10,6,0
+Basketball,Basketball Team 3,"Player1, Player2, Player3, Player4, Player5","Sub1, Sub2, Sub3, Sub4, Sub5, Sub6, Sub7",10,3,2,1,13,11,10,0
+Basketball,Basketball Team 4,"Player1, Player2, Player3, Player4, Player5","Sub1, Sub2, Sub3, Sub4, Sub5, Sub6, Sub7",10,4,1,2,14,12,14,0
+Basketball,Basketball Team 5,"Player1, Player2, Player3Player1, Player2, Player3, Player4, Player5","Sub1, Sub2, Sub3, Sub4, Sub5, Sub6, Sub7",10,5,0,0,15,13,15,0
+Volleyball,Volleyball Team 1,"Player1, Player2, Player3, Player4, Player5, Player6","Sub1, Sub2, Sub3, Sub4",10,1,4,2,11,9,5,0
+Volleyball,Volleyball Team 2,"Player1, Player2, Player3, Player4, Player5, Player6","Sub1, Sub2, Sub3, Sub4",10,2,3,0,12,10,6,0
+Volleyball,Volleyball Team 3,"Player1, Player2, Player3, Player4, Player5, Player6","Sub1, Sub2, Sub3, Sub4",10,3,2,1,13,11,10,0
+Volleyball,Volleyball Team 4,"Player1, Player2, Player3, Player4, Player5, Player6","Sub1, Sub2, Sub3, Sub4",10,4,1,2,14,12,14,0
+Volleyball,Volleyball Team 5,"Player1, Player2, Player3, Player4, Player5, Player6","Sub1, Sub2, Sub3, Sub4",10,5,0,0,15,13,15,0
+Kabaddi,kabaddi Team 11,"Player 1, Player2, Player3, Player4, Player5, Player6, Player7","Substitute 1, Substitute 2, Substitute 3, Substitute 4, Substitute 5",15,9,2,0,23,17,9,11/17/2025 14:27
